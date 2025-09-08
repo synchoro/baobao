@@ -12,7 +12,7 @@ body {
 
 .container {
     width: 80%; /* 适应手机屏幕宽度 */
-    max-width: 300px; /* 最大宽度限制 */
+    max-width: 350px; /* 最大宽度限制 */
 }
 
 #mainImage {
