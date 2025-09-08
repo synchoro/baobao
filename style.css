@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 10%; /* 适应手机屏幕宽度 */
+    width: 60%; /* 适应手机屏幕宽度 */
     max-width: 300px; /* 最大宽度限制 */
 }
 
